@@ -4,4 +4,8 @@ public class Hello{
     String y = "World";
     System.out.println(x+y);
   }
+
+  public static boolean isConsonant(char c) {
+      return Character.isLetter(c) && !isVowel(c);
+    }
 }
