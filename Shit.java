@@ -7,5 +7,9 @@ public class Shit{
   //5
   //6
   System.out.print("L bozo");
+<<<<<<< HEAD
+=======
+  System.out.print("W bozo");
+>>>>>>> feature-1
   }
 }
